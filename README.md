@@ -1,5 +1,5 @@
 # german_credit_python
- 
+
 A Logistic Regression Python model to predict loan default.
 
 ## Running Locally
